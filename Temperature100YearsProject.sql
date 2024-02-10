@@ -1,3 +1,5 @@
+-- This project will create a table and split the data source into decades, once this runs, we can begin the data visualisation process.
+
 
 --Creating a table for each decade
 drop table if exists #AvgTempDecades
