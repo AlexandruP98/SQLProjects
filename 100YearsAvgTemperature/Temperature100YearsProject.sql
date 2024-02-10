@@ -1,4 +1,4 @@
---Data from OurWorldInData.com
+--Data from OurWorldInData.org
 --Creating a table for each decade
 drop table if exists #AvgTempDecades
 create table #AvgTempDecades (Decades varchar(50), AvgTemp decimal(16,2))
