@@ -1,5 +1,5 @@
 --Cleaning data project
-
+--Data from Kaggle.com
 --Standardize Date Format
 
 select SaleDate
